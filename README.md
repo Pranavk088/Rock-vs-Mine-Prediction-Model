@@ -1,4 +1,5 @@
 # Rock-vs-Mine-Prediction-Model
+<br>
 > Objective: Develop an AI-based model to classify underwater objects as either rocks or mines.
  <br>
 > Motivation: Traditional sonar analysis is manual, slow, and error-prone.
